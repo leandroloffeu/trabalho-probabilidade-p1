@@ -8,5 +8,5 @@
 ### Probabilidade - 6º Período
 ### Professor: Rafael Mynssem
 
-### Dados históricos das Olimpíadas
+### Base de dados: Dados históricos das Olimpíadas
 A base oferece a série histórica de dados dos atletas presentes em Jogos Olímpicos desde 1896.
