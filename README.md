@@ -7,3 +7,6 @@
 ### Nilton Cezar Marins Brum Junior - mat. 202211166  - Turma A
 ### Probabilidade - 6º Período
 ### Professor: Rafael Mynssem
+
+### Dados históricos das Olimpíadas
+A base oferece a série histórica de dados dos atletas presentes em Jogos Olímpicos desde 1896.
