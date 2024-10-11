@@ -5,7 +5,7 @@
 ### Leandro Loffeu Pereira Costa - mat. 202212089 - Turma A
 ### Lucas Cerqueira Ferreira Carneiro - mat. 202211189  - Turma A
 ### Nilton Cezar Marins Brum Junior - mat. 202211166  - Turma A
-### Probabilidade - 6º Período
+### Probabilidade e Estatística - 6º Período
 ### Professor: Rafael Mynssem
 
 ### Base de dados: Dados históricos das Olimpíadas
